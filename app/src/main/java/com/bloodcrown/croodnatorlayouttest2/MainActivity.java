@@ -53,6 +53,11 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
             return;
         }
+        if (id == R.id.buttom8) {
+            intent.setClass(this, ZhiHuBehaviorActivity.class);
+            startActivity(intent);
+            return;
+        }
 
     }
 
