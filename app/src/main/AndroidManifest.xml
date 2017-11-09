@@ -45,7 +45,13 @@
         </activity>
         <activity android:name=".SwipeDismissBehaviorActivity">
         </activity>
-        <activity android:name=".ZhiHuBehaviorActivity" android:theme="@style/AppTheme.NoActionBar">
+        <activity
+            android:name=".ZhiHuBehaviorActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".KaiYanBehaviorActivity"
+            android:theme="@style/AppTheme.NoActionBar">
         </activity>
     </application>
 

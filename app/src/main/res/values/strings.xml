@@ -89,6 +89,18 @@
         "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
         "when a user tries to pick up one of cards.\n\n"
     </string>
+    <string name="large_text_2">"Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+    </string>
     <string name="action_settings">Settings</string>
     <string name="buttom_behavior">behavior.ButtomNavigationBehavior</string>
+    <string name="kaiyan_nestlist_behavior">behavior.KaiYanAppBarBehavior</string>
+    <integer name="kaiyan_appbar_id">545</integer>
 </resources>

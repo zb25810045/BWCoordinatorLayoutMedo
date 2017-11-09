@@ -110,5 +110,16 @@
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/buttom7"/>
 
+        <Button
+            android:id="@+id/buttom9"
+            style="@style/mainActivity_buttom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="goOn"
+            android:text="仿开眼页面behavior"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/buttom8"/>
+
     </android.support.constraint.ConstraintLayout>
 </android.support.v4.widget.NestedScrollView>

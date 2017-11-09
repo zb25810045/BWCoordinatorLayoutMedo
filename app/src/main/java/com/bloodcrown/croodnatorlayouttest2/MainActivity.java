@@ -58,7 +58,11 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
             return;
         }
-
+        if (id == R.id.buttom9) {
+            intent.setClass(this, KaiYanBehaviorActivity.class);
+            startActivity(intent);
+            return;
+        }
     }
 
 }
